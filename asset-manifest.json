@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/country-state-city-selector/static/css/main.70a8e79b.css",
-    "main.js": "/country-state-city-selector/static/js/main.1752874e.js",
-    "static/js/787.5ee155f4.chunk.js": "/country-state-city-selector/static/js/787.5ee155f4.chunk.js",
-    "index.html": "/country-state-city-selector/index.html",
-    "main.70a8e79b.css.map": "/country-state-city-selector/static/css/main.70a8e79b.css.map",
-    "main.1752874e.js.map": "/country-state-city-selector/static/js/main.1752874e.js.map",
-    "787.5ee155f4.chunk.js.map": "/country-state-city-selector/static/js/787.5ee155f4.chunk.js.map"
+    "main.css": "/country-state-city/static/css/main.70a8e79b.css",
+    "main.js": "/country-state-city/static/js/main.aac0f54f.js",
+    "static/js/787.5ee155f4.chunk.js": "/country-state-city/static/js/787.5ee155f4.chunk.js",
+    "index.html": "/country-state-city/index.html",
+    "main.70a8e79b.css.map": "/country-state-city/static/css/main.70a8e79b.css.map",
+    "main.aac0f54f.js.map": "/country-state-city/static/js/main.aac0f54f.js.map",
+    "787.5ee155f4.chunk.js.map": "/country-state-city/static/js/787.5ee155f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70a8e79b.css",
-    "static/js/main.1752874e.js"
+    "static/js/main.aac0f54f.js"
   ]
 }
